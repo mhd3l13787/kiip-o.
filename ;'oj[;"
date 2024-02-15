@@ -1,0 +1,4 @@
+sudo chmod 600 /etc/chainflip/keys/ethereum_key_file
+sudo chmod 600 /etc/chainflip/keys/signing_key_file
+sudo chmod 600 /etc/chainflip/keys/node_key_file
+history -c
